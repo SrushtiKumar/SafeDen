@@ -27,8 +27,7 @@ Whether you're planning your daily commute, traveling to a new area, or finding 
 <p>Tech stack: HTML, CSS, JS, typescript</p>
 <br>
 <br>
-<p>Video Demo: </p>
-
+<p>Video Demo: https://drive.google.com/drive/folders/1yk9JK0EO4ywl3Q4kQuc-XQQxax-jKoJO?usp=sharing </p>
 <br>
 <br>
 <h3>To run the project in your system locally, use the below commands:</h3>
