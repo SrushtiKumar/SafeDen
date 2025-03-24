@@ -7,7 +7,7 @@
 </center>
 
 <h5>
-SafeRoute is a comprehensive safety platform designed specifically for women commuters. 
+SafeDen is a comprehensive safety platform designed specifically for women commuters. 
 At its core, SafeDen believes that technology should enhance freedom rather than restrict it.
 Whether you're planning your daily commute, traveling to a new area, or finding yourself in an unexpected situation, SafeDen provides the tools you need to stay connected, informed, and secure.
 </h5>
@@ -28,3 +28,16 @@ Whether you're planning your daily commute, traveling to a new area, or finding 
 <br>
 <br>
 <p>Video Demo: </p>
+
+<br>
+<br>
+<h3>To run the project in your system locally, use the below commands:</h3>
+<br>
+<p>
+npm install -g pnpm <br>
+npm install --legacy-peer-deps <br>
+pnpm install <br>
+pnpm run dev <br>
+pnpm run build <br>
+pnpm start <br>
+</p>
