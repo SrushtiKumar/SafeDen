@@ -1,7 +1,9 @@
 <center>
   <h1>SafeDen : Empowering Safer Commutes for Women</h1>
   <br>
+  <center>
   <h3>Aimed to provide a safe commuting experience !</h3>
+  </center>
 </center>
 
 <h5>
