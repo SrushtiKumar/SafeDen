@@ -10,7 +10,7 @@ At its core, SafeDen believes that technology should enhance freedom rather than
 Whether you're planning your daily commute, traveling to a new area, or finding yourself in an unexpected situation, SafeDen provides the tools you need to stay connected, informed, and secure.
 </h5>
 <br>
-<img src='display/display.JPG' height='60px' width='60px'>
+<img src='display/display.JPG' height='360px' width='360px'>
 <br>
 <br>
 <p>
